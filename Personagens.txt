@@ -3,3 +3,5 @@ Darth Vader
 Master Yoda
 Jabba
 Chewie
+Han Solo
+Lando Calrissian
