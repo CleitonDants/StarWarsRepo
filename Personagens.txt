@@ -5,3 +5,5 @@ Jabba
 Chewie
 Han Solo
 Lando Calrissian
+Rey
+Finn
